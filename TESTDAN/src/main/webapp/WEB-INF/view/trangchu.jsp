@@ -5,8 +5,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bee Shirt</title>
 
+    <title>MAN FOROYALL</title>
+    <link rel="icon" href="https://inmiligo.com/wp-content/uploads/2024/05/logo-shop-quan-ao-dep-7.jpg" >
        <link rel="stylesheet" href="${pageContext.request.contextPath}/asset/css/style.css">
 
 

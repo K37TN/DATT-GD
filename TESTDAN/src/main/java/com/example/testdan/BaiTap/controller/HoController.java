@@ -20,4 +20,8 @@ public class HoController {
     public String hienthi3(){
         return "chitiet";
     }
+    @GetMapping("/trangmoi")
+    public String hienthi4(){
+        return "trangchu2";
+    }
 }
